@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="check_button_text">Check</string>
+    <string name="email_hint_text">Введите email</string>
+</resources>

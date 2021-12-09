@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestingApplication</string>
+    <string name="check_button_text">Check</string>
+    <string name="email_hint_text">Введите email</string>
+</resources>
